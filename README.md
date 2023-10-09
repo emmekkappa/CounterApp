@@ -64,7 +64,7 @@ Contributions are welcome! If you have ideas for improvements or new features, p
 
 ## License
 
-Distributed under the MIT License. (https://github.com/emmekkappa/CounterApp/blob/main/LICENSE)
+Distributed under the [MIT License.](https://github.com/emmekkappa/CounterApp/blob/main/LICENSE)
 
 ## Contact
 
