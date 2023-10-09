@@ -70,4 +70,4 @@ Distributed under the [MIT License.](https://github.com/emmekkappa/CounterApp/bl
 
 Mikael Festa - mikaelstadia@gmail.com
 
-Project Link: [https://github.com/emmekkappa/CounterApp](https://github.com/emmekkappa/CounterApp)
+Project Link: [https://emmekkappa.github.io/CounterApp/](https://emmekkappa.github.io/CounterApp/)
