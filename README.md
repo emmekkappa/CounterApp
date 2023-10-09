@@ -41,7 +41,7 @@ You need to have a modern web browser installed, such as Chrome, Firefox, or Saf
 
 ## Usage
 
-Once the app is open in your browser, you can interact with it by clicking the "+" and "-" buttons to increment and decrement the counter value. The current counter value is displayed at the center of the app.
+Once the app is open in your browser, you can interact with it by clicking the "+" and "-" buttons to increment and decrement the counter value. The current counter value is displayed at the centre of the app.
 
 ## Roadmap
 
