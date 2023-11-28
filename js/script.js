@@ -68,5 +68,5 @@ function createCounterApp() {
     updateCounterValue();
 }
 
-// Create the Counter App
+// Creazione di Counter App
 createCounterApp();
