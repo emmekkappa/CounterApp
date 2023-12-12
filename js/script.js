@@ -48,20 +48,18 @@ function createCounterApp() {
         counterValueElement.textContent = counter;
     }
 
-    // Event listener per il pulsante aumento del contatore
-    incrementButton.addEventListener('click', function () {
-        // Incremento del valore del contatore
-        counter++;
-        // Aggiornamento del valore del contatore
-        updateCounterValue();
-    });
+    // Event listener per i click pulsante 
+    buttonContainer.addEventListener('click', function (event) {
 
-    // Event listener per il pulsante diminuzione del contatore
-    decrementButton.addEventListener('click', function () {
-        // Diminuzione del valore del contatore
-        counter--;
-        // Aggiornamento del valore del contatore
+        // Controlla se elemento cliccato è bottone
+        if (event.target.tagName === 'BUTTON') {
+
+        // Aumento o diminuzione del contatore in base al pulsante cliccato
+            counter += event.target.id === 'incrementBtn' ? 1 : -1;
+
+        // Aggiornamento del contatore
         updateCounterValue();
+        }
     });
 
     // Aggiornamento iniziale del contatore
